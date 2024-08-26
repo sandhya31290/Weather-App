@@ -5,4 +5,5 @@ Welcome to the Weather App repository! This project is designed to deliver accur
 * CSS
 * JavaScripts
 # Here's how it looks!
-[Screenshot 2024-08-26 103904](https://github.com/user-attachments/assets/81e5e0c5-6cf0-4cae-b514-ecf8119a82f3)
+
+![Screenshot 2024-08-26 103904](https://github.com/user-attachments/assets/5c957cde-2610-470d-82a8-e7409c907977)
